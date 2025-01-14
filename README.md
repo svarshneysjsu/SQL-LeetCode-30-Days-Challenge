@@ -1,7 +1,8 @@
-# SQL_LeetCode_30Days_Challenge
+# SQL LeetCode 30 Days Challenge
 
-This repository contains the SQL scripts for top 30 LeetCode questions.
-This range from basic queries like selecting records and filtering results, to more advanced tasks like performing joins, aggregations, and subqueries. Whether you’re preparing for an interview or aiming to improve your SQL proficiency, these questions will help you practice fundamental SQL concepts such as GROUP BY, HAVING, JOIN, UNION, and RANK.
+Welcome to the SQL LeetCode 30 Days Challenge repository! 🚀
+This repository contains solutions to various SQL-based problems on LeetCode, organized for easy navigation and learning.
+This range from basic queries like selecting records and filtering results, to more advanced tasks like performing joins, aggregations, and subqueries.
 
 # Problem List
 
